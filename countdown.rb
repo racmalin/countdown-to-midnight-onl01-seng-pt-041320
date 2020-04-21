@@ -1,7 +1,7 @@
 # def x
 # end
 
-def countdown(int)
+def countdown(int) 
   
   while int > 0 
   puts "#{int} SECOND(S)!"
