@@ -9,12 +9,12 @@ def countdown(int)
     int -= 1 
   "HAPPY NEW YEAR!"
   
-end
+ end
 end
 
-# def countdown_with_sleep(int)
-#     countdown(int)
-#     sleep 5
+def countdown_with_sleep(int)
+    countdown(int)
+    sleep 5
    
-# end
+end
 
