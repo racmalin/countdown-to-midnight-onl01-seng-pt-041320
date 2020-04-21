@@ -1,4 +1,4 @@
-def x=0
+def x
 
 def countdown
  while x > 0 
