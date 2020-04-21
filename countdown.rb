@@ -2,7 +2,7 @@
 # end
 
 def countdown(x)
-  
+  puts ""
   
   while x < 0 
   
